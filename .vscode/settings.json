@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 18,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.language.brackets": [],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {},
+    "prettier.trailingComma": "none",
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
